@@ -1,0 +1,37 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/poscampusmm03/Workspace/challenge_rails/app/models/user.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/poscampusmm03/Workspace/challenge_rails/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/poscampusmm03/Workspace/challenge_rails/app/models/challenge.rb": [
+        1,
+        null
+      ],
+      "/Users/poscampusmm03/Workspace/challenge_rails/app/controllers/challenges_controller.rb": [
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/poscampusmm03/Workspace/challenge_rails/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1465865996
+  }
+}
